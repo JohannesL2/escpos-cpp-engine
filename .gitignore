@@ -1,0 +1,16 @@
+# CLion/JetBrains skräpfiler
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+# Android Studio skräpfiler
+.cxx/
+build/
+.externalNativeBuild/
+local.properties
+.gradle/
+
+# Kompilerade binärer
+*.out
+*.bin
+*.exe
