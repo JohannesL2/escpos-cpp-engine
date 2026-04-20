@@ -28,12 +28,7 @@
   <component name="ChangeListManager">
     <list default="true" id="64ef83b8-d664-4942-bac0-a892b00d6225" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrinterEngine.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrinterEngine.kt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android_jni.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/PrinterBridge.kt" beforeDir="false" afterPath="$PROJECT_DIR$/java/PrinterBridge.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

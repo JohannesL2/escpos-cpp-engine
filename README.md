@@ -1,5 +1,3 @@
-Här är en ren och professionell README.md på engelska som tydliggör att motorn fungerar både som ett fristående bibliotek och som en Android-modul.
-
 ESC/POS C++ Engine
 This is a high-performance C++20 engine for ESC/POS thermal printing. It is designed as a standalone C++ library for any C++ project, while also providing an optional Android JNI bridge for mobile integration.
 
